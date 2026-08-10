@@ -11,7 +11,7 @@ public class StringBasic{
             System.out.print(S.charAt(i));
         }
         System.out.println();
-        //Count vowels
+        
         int vowels =0;
         int consonants =0;
         int spaces =0;
